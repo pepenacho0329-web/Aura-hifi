@@ -1,0 +1,16 @@
+{
+  "appId": "com.aurahifi.player",
+  "appName": "AuraHiFi",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0a0907",
+      "showSpinner": false
+    }
+  }
+}

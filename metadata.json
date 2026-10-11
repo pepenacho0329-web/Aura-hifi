@@ -1,0 +1,8 @@
+{
+  "name": "AuraHiFi - Reproductor de Música Hi-Res y Streaming",
+  "description": "Reproductor de audio de alta resolución con decodificación multiformato, ecualizador paramétrico de 10 bandas, streaming en la nube y visualizador de espectro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
